@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>云计算技术课程实验报告三</title>
+    <link href="/2024/03/23/lab3/"/>
+    <url>/2024/03/23/lab3/</url>
+    
+    <content type="html"><![CDATA[<span id="more"></span><h1 id="云计算技术课程实验报告三"><a href="#云计算技术课程实验报告三" class="headerlink" title="云计算技术课程实验报告三"></a>云计算技术课程实验报告三</h1><h2 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a>基本信息</h2><p><strong>学号：</strong> 202100130126<br><strong>姓名：</strong> 甘博文<br><strong>班级：</strong> 计科21.1班<br><strong>实验题目：</strong> 利用主流云平台搭建个人博客或网站<br><strong>实验学时：</strong> 2<br><strong>实验日期：</strong> 2024&#x2F;3&#x2F;22</p><h2 id="实验目的"><a href="#实验目的" class="headerlink" title="实验目的"></a>实验目的</h2><ol><li>熟悉主流云平台的使用方法</li><li>熟悉主流云平台搭建个人博客或网站的方法</li><li>熟悉主流云平台搭建个人博客或网站的注意事项</li><li>熟悉主流云平台搭建个人博客或网站的常见问题及解决方法</li></ol><h2 id="硬件环境"><a href="#硬件环境" class="headerlink" title="硬件环境"></a>硬件环境</h2><p>联网的计算机一台</p><h2 id="软件环境"><a href="#软件环境" class="headerlink" title="软件环境"></a>软件环境</h2><p>Windows</p><h2 id="实验步骤与内容"><a href="#实验步骤与内容" class="headerlink" title="实验步骤与内容"></a>实验步骤与内容</h2><ol><li>依次安装并测试git、nodejs和hexo</li><li>git配置SSH key</li><li>在本地新建一个存放个人博客的文件夹</li><li>在github上新建仓库，修改博客配置文件中的_config.yml文件，修改部署文件中的deploy文件，部署到github仓库</li><li>利用git clone命令克隆fluid仓库到本地，修改部分属性以满足个人使用需求</li><li>撰写实验报告，利用hexo g、hexo s、hexo d命令测试本地页面并上传到github页面</li></ol><h2 id="结论分析与体会"><a href="#结论分析与体会" class="headerlink" title="结论分析与体会"></a>结论分析与体会</h2><p>本实验学习了如何在云端部署一个自己的网站。我一开始使用了阿里云，购买域名、服务器并安装了web服务器apache。但是不会的东西太多了，于是转用github+hexo配置个人博客，简单多了。</p><h2 id="附录"><a href="#附录" class="headerlink" title="附录"></a>附录</h2><p><strong>个人博客网站：</strong> <a href="https://xiliuying.github.io/">https://xiliuying.github.io</a><br><strong>fluid官方仓库：</strong> <a href="https://github.com/fluid-dev/hexo-theme-fluid.git">https://github.com/fluid-dev/hexo-theme-fluid.git</a><br><strong>fluid官方文档：</strong> <a href="https://hexo.fluid-dev.com/docs/guide/">https://hexo.fluid-dev.com/docs/guide/</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Lab Report</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>change-first-blog</title>
     <link href="/2024/03/23/change-first-blog/"/>
     <url>/2024/03/23/change-first-blog/</url>
